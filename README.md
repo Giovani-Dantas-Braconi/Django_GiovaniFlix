@@ -73,4 +73,4 @@ O painel de administração estará disponível em http://127.0.0.1:8000/admin/.
     ```
     Usuário: user_comum_site
     Senha: pessoa_comum_10
-Após iniciar o servidor a pessoa comum já pode se divertir a vontade no 
+Após iniciar o servidor a pessoa comum já pode se divertir a vontade na plataforma.
